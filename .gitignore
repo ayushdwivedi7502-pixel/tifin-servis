@@ -1,0 +1,24 @@
+node_modules/
+dist/
+.next/
+out/
+build/
+.env
+.env.local
+.env.*.local
+*.log
+coverage/
+.turbo/
+.DS_Store
+Thumbs.db
+apps/mobile/.dart_tool/
+apps/mobile/build/
+apps/mobile/.flutter-plugins
+apps/mobile/.flutter-plugins-dependencies
+*.jks
+*.keystore
+
+# Local junctions and IDE
+backend
+frontend
+.cursor/

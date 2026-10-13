@@ -1,0 +1,5 @@
+- [ ] Rotate JWT secrets and admin password before production
+- [ ] Set `PAYMENT_PROVIDER=razorpay` with webhook secret verified on server
+- [ ] Never commit `.env`; use Atlas IP allowlist
+- [ ] Enable HTTPS and strict CORS in production
+- [ ] Review rate limits and audit logs regularly

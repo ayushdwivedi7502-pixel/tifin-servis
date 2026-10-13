@@ -1,0 +1,5 @@
+- [ ] Configure real business details in admin settings
+- [ ] Razorpay keys in hosting secrets (not in repo)
+- [ ] MongoDB backups
+- [ ] Build: `npm run build` and deploy API + Next.js
+- [ ] Play Store signing for Flutter release APK/AAB
